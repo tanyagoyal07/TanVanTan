@@ -12,7 +12,19 @@
 
 ### Modalities for running the code
 
-Refer to the jupyter notebook attached in the zipped file
+###### Part1 & Part2
+
+Please find it in the Github repository 
+
+filename : 
+
+PART1 Jupyternotebook
+
+PART2 Jupyternotebook
+
+
+
+
 
 
 
